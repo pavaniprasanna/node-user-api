@@ -1,0 +1,16 @@
+{
+  "name": "prasanna-api",
+  "version": "2.1.3",
+  "description": "onward",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pavaniprasanna",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.15"
+  }
+}
